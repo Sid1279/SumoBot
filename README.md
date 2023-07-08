@@ -30,7 +30,7 @@ To implement this project, you will need the following:
 
    - Display and Delay: The code displays appropriate messages and images on the Microbit's LED display to indicate the bot's current behavior. It also introduces random delays for certain actions using the sleep() function.
 
-4. Custom Bumper: The README mentions the use of a custom 3D-printed bumper designed using AutoCAD. The bumper enhances the bot's physical design and may provide additional protection or functionality.
+4. Custom Bumper: The README mentions the use of a custom 3D-printed bumper designed using AutoCAD. The bumper enhances the bot's physical design and provides additional protection or functionality.
 
 Please ensure that you have the necessary hardware components and dependencies installed before running the code. Modify the code as needed to adjust the motor speeds, sensor thresholds, or other parameters based on your specific requirements.
 
