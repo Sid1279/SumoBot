@@ -2,7 +2,7 @@
 
 This script enables you to control a bot using a BBC Microbit microcontroller. The bot uses ultrasonic sensors, QTI sensors, and IR sensors for obstacle detection and navigation. Additionally, a custom 3D-printed bumper is used to enhance the bot's physical design.
 
-## What Did I Use
+## Components & Libraries
 
 To implement this project, you will need the following:
 
@@ -36,7 +36,7 @@ Please ensure that you have the necessary hardware components and dependencies i
 
 ## Acknowledgments
 
-This project was built in the TEJ4M0 course for the SumoBot competition. The 3D-printed custom bumper enhances the bot's design and showcases the integration of hardware and software components. Please look at the tinkerCAD circuit as well as the SumoBot images in the repository for a better idea of what the project is :)
+This project was built in the TEJ4M0 course for the SumoBot competition. The 3D-printed custom bumper enhances the bot's design and showcases the integration of hardware and software components. Please look at the TinkerCAD circuit as well as the SumoBot images in the repository for a better idea of what the project is :)
 
 Feel free to explore and experiment with the code, hardware, and customization options to create your own unique bot project!
 
