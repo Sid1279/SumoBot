@@ -1,4 +1,4 @@
-# SumoBot using Micrrobit
+# SumoBot using Microbit
 
 This script enables you to control a bot using a BBC Microbit microcontroller. The bot uses ultrasonic sensors, QTI sensors, and IR sensors for obstacle detection and navigation. Additionally, a custom 3D-printed bumper is used to enhance the bot's physical design.
 
