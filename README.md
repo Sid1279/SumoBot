@@ -1,8 +1,8 @@
-# SumoBot using Microbit
+# SumoBot using Microbit 🦾
 
 This script enables you to control a bot using a BBC Microbit microcontroller. The bot uses ultrasonic sensors, QTI sensors, and IR sensors for obstacle detection and navigation. Additionally, a custom 3D-printed bumper is used to enhance the bot's physical design.
 
-## Components & Libraries
+## Components & Libraries 📚
 
 To implement this project, you will need the following:
 
@@ -14,7 +14,7 @@ To implement this project, you will need the following:
 - PyAutoGUI module for controlling the computer's cursor (imported as "pyautogui")
 - OpenCV library for computer vision tasks (imported as "cv2")
 
-## How It Works
+## How It Works ⛭
 
 1. Setup: The code begins by declaring the required pins and initializing the bot's motors. The servo motors for controlling the bot's motion are connected to pins 18 and 19. The ultrasonic sensor is connected to pins 13 (trig) and 14 (echo).
 
@@ -34,7 +34,7 @@ To implement this project, you will need the following:
 
 Please ensure that you have the necessary hardware components and dependencies installed before running the code. Modify the code as needed to adjust the motor speeds, sensor thresholds, or other parameters based on your specific requirements.
 
-## Acknowledgments
+## Acknowledgments 🫴
 
 This project was built in the TEJ4M0 course for the SumoBot competition. The 3D-printed custom bumper enhances the bot's design and showcases the integration of hardware and software components. Please look at the TinkerCAD circuit as well as the SumoBot images in the repository for a better idea of what the project is :)
 
