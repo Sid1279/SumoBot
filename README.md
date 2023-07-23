@@ -34,7 +34,7 @@ To implement this project, you will need the following:
 
 Please ensure that you have the necessary hardware components and dependencies installed before running the code. Modify the code as needed to adjust the motor speeds, sensor thresholds, or other parameters based on your specific requirements.
 
-## Acknowledgments 🫴
+## Acknowledgments 🖊️
 
 This project was built in the TEJ4M0 course for the SumoBot competition. The 3D-printed custom bumper enhances the bot's design and showcases the integration of hardware and software components. Please look at the TinkerCAD circuit as well as the SumoBot images in the repository for a better idea of what the project is :)
 
